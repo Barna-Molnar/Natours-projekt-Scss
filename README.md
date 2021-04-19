@@ -1,2 +1,2 @@
 # Natours-projekt-Scss
-projekt
+This projekt was created on an Advanced Css course.
